@@ -1,0 +1,19 @@
+---
+title: "DAL - Formative 1"
+author: "YOUR EXAM NUMBER"
+format:
+  html:
+    embed-resources: true
+execute: 
+  warning: false
+---
+
+Complete the following tasks.
+
+- Attach the tidyverse.
+- Import `data/coretta2018/token-measures.csv`.
+- Create the following plots. Also add a description to each
+  - Scatter plot of `speech_rate` and `word_duration`. Set the alpha of the points to 0.3.
+  - Scatter plot of `speech_rate` and `v1_duration`, coloured by `c2_phonation`. Set the alpha of the points to 0.5. Use the turbo viridis palette.
+  - Scatter plot of `f2` and `f1`, coloured by `vowel`. Set the alpha of the points to 0.5. Use the Dark2 brewer palette.
+
